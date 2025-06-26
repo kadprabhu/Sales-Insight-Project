@@ -30,8 +30,7 @@ It is built to demonstrate my skills in data preparation, SQL querying, and inte
 - Monthly Sales Trend (Line Chart)
 - Top 5 Products by Sales (Table)
 - Payment Method Distribution (Donut Chart)
-- KPI Cards: Total Revenue, Unique Customers, Total Orders
-
+  
 ------------------------------------------
 📄 Notes:
 - To view the dashboard, please open the .pbix file in Power BI Desktop.
