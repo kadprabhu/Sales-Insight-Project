@@ -38,3 +38,6 @@ It is built to demonstrate my skills in data preparation, SQL querying, and inte
 - All visuals are fully interactive and filterable in Power BI.
 
 Thank you for reviewing my project!
+![image](https://github.com/user-attachments/assets/f6706ca9-9af5-46a8-8b32-9a1d9c2c306e)
+
+
